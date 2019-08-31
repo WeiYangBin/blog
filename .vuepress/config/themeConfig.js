@@ -2,41 +2,25 @@ const sidebar = require('./sidebar')
 module.exports = {
   nav: [
     {
-      text: '前端三剑客',
+      text: 'Programming Language',
       items: [
-        { text: 'JavaScript', link: '/js/' },
-        { text: 'CSS', link: '/css/' }
+        { text: 'Python', link: '/python/' },
+        { text: 'C/C++', link: '/c/' }
       ]
     },
     {
-      text: 'Vue',
-      link: '/vue/'
+      text: 'Deep learning',
+      link: '/dl/'
     },
     // {
     //   text: 'React',
     //   link: '/react/'
     // },
     {
-      text: 'Node',
-      items: [
-        {
-          text: 'Node',
-          link: '/node/'
-        },
-        {
-          text: 'Egg',
-          link: '/egg/'
-        }
-      ]
+      text: 'VQA',
+      link: '/vqa/'
     },
-    {
-      text: 'Webpack',
-      link: '/webpack/'
-    },
-    {
-      text: '组件',
-      link: '/components/'
-    }
+
   ],
   sidebar
 }

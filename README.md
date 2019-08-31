@@ -1,16 +1,20 @@
 ---
 home: true
 comment: false
-footer: MIT Licensed | Copyright © 2018-present Zhifang Zhan
+footer: MIT Licensed | Copyright © 2019-present YangBin Wei
 ---
 
-### 博客简介
-技术文章分享与日常踩坑记录
-### 个人标签
-前端小白
+### Introduction
+Technology and experience sharing
+### Label
+ - Computer Vision
 
-### 导航
+ - Natural Language Processing
 
-- [JS 那些事](/js/)
-- [CSS色彩](/css/)
-- [NODE 世界](/node/)
+ - Deep Learning
+### Navigation
+
+- [Python](/python/)
+- [C / C ++ ](/c/) 
+- [Deep Learning](/dl/)
+- [Visual Question Answer](/vqa/)

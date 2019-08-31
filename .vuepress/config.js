@@ -4,7 +4,7 @@ const {
 
 module.exports = {
   title: 'Yangbin Wei',
-  description: '开开心心写博客',
+  description: 'About Me',
   dest: 'dist',
   themeConfig,
   plugins: [
@@ -16,8 +16,8 @@ module.exports = {
           clientID: 'b97cdb14a8b4c92ed33c',
           clientSecret: '8de8ec03e99dfae940ec6aa28dad88245a8c1eac',
           repo: 'blog',
-          owner: 'ZhanYishu',
-          admin: ['ZhanYishu'],
+          owner: 'YangBin Wei',
+          admin: ['YangBin Wei'],
           id: '<%- frontmatter.commentid || frontmatter.title %>',
           distractionFreeMode: false,  // Facebook-like distraction free mode
           labels: ['Gitalk', 'Comment'],
