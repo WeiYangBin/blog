@@ -12,10 +12,7 @@ module.exports = {
       text: 'Deep learning',
       link: '/dl/'
     },
-    // {
-    //   text: 'React',
-    //   link: '/react/'
-    // },
+    
     {
       text: 'VQA',
       link: '/vqa/'
