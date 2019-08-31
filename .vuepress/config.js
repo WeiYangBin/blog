@@ -3,7 +3,7 @@ const {
 } = require('./config/')
 
 module.exports = {
-  title: '志方博客',
+  title: 'Yangbin Wei',
   description: '开开心心写博客',
   dest: 'dist',
   themeConfig,
