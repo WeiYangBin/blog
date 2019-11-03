@@ -12,7 +12,6 @@ module.exports = {
       text: 'Deep learning',
       link: '/dl/'
     },
-    
     {
       text: 'VQA',
       link: '/vqa/'

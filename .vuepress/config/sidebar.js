@@ -1,25 +1,24 @@
-// module.exports = {
-//   '/js/': [
-//     {
-//       title: 'Javascript',
-//       collapsable: false,
-//       children: [
-//         '',
-//         '分时函数',
-//         '惰性加载函数',
-//         '柯里化函数',
-//       ]
-//     }
-//   ],
-//   '/css/': [
-//     {
-//       title: 'CSS',
-//       collapsable: false,
-//       children: [
-//         ''
-//       ]
-//     }
-//   ],
+module.exports = {
+  '/dl/': [
+    {
+      title: 'Deep Learning',
+      collapsable: false,
+      children: [
+        '',
+        'LSTM',
+      ]
+    }
+  ],
+  '/python/': [
+    {
+      title: 'Python',
+      collapsable: false,
+      children: [
+        '',
+        '正则化'
+      ]
+    }
+  ],
 //   '/webpack': [
 //     {
 //       title: 'Webpack',
@@ -67,4 +66,4 @@
 //       ]
 //     }
 //   ]
-// }
+}
