@@ -1,7 +1,7 @@
 ---
 home: true
 comment: false
-footer: 粤ICP备19110454号 Licensed | Copyright © 2019-present YangBin Wei
+#footer: 粤ICP备19110454号 Licensed | Copyright © 2019-present YangBin Wei
 ---
 
 ### Introduction
