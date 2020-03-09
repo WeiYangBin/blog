@@ -1,8 +1,9 @@
 ---
 home: true
 comment: false
-footer: 闽ICP备20002150号 Licensed | Copyright © 2020-present Yangbin Wei
+
 ---
+
 
 ### Introduction
 Technology and experience sharing
@@ -18,3 +19,11 @@ Technology and experience sharing
 - [C / C ++ ](/c/) 
 - [Deep Learning](/dl/)
 - [Visual Question Answer](/vqa/)
+
+
+
+---
+<p></p>
+<center>
+闽ICP备20002150号&nbsp;<a rel="nofollow" href="http://www.beian.miit.gov.cn" target="_blank">闽ICP备20002150号-1</a> &nbsp;&nbsp;Licensed | Copyright © 2020-present Yangbin Wei
+</center>
