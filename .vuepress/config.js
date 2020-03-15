@@ -7,6 +7,17 @@ module.exports = {
   description: 'About Me',
   dest: 'dist',
   themeConfig,
+  plugins: [
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
+  ],
   // plugins: [
   //   [
   //     'vuepress-plugin-comment',
