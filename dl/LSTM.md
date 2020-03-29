@@ -75,7 +75,7 @@ c^{<t>} = \Gamma_f^{(t)}*c^{<t-1>}+ \Gamma_u^{(t)}*\tilde{c}^{<t>}$$
 ### 输出门（output gate)
 为了确定我们将使用哪些输出，我们将使用以下两个公式
 
-$$
+$$ 
 \Gamma_o^{<t>} 
 = Sigmoid(W_o[h^{<t - 1>}, x^{<t>}] + b_o)$$
 
